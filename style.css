@@ -208,3 +208,9 @@
 .box {
     width: 200px;
 }
+
+@media (max-width: 400px) {
+    .container{
+        padding: 0 10px;
+    }
+}
